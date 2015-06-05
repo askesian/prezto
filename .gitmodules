@@ -16,3 +16,9 @@
 [submodule "modules/prompt/functions/pure"]
 	path = modules/prompt/external/pure
 	url = https://github.com/sindresorhus/pure.git
+[submodule "modules/prompt/external/paradox"]
+	path = modules/prompt/external/paradox
+	url = https://gist.github.com/94964e2d148d2a8153b2.git
+[submodule "modules/prompt/external/peepcode"]
+	path = modules/prompt/external/peepcode
+	url = https://gist.github.com/5d22d86fbee8ed5ce29f.git
